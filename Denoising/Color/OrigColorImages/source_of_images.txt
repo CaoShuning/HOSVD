@@ -1,0 +1,11 @@
+Download source images for testing our algorithms from the Kodak gallery:
+
+http://r0k.us/graphics/kodak/
+
+There are 24 images in this gallery. The images need to be converted to ASCII PPM format before running our programs.
+The header of the ppm file must conform to the following specs:
+
+First line contains the ppm magic code.
+Second line contains the width and height separated by a space.
+Third line contains a number which is equal to the maximum values of any color in the image  (i.e. 255).
+
